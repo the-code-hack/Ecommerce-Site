@@ -1,5 +1,5 @@
 <h1 align="center">
-    SHOPCART: Ecommerce Site
+    FLIPKART: Ecommerce Site
 </h1>
 
 <h3 align="center">
